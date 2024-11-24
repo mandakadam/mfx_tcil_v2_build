@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmfx_tcil_v2"]=self["webpackChunkmfx_tcil_v2"]||[]).push([[619],{5351:function(n,t,u){u.r(t),u.d(t,{default:function(){return l}});var e=u(6768);function r(n,t){return(0,e.uX)(),(0,e.CE)("div",null," CustomerDetails ")}var c=u(1241);const f={},i=(0,c.A)(f,[["render",r]]);var l=i}}]);
+//# sourceMappingURL=CustomerDetails.62a86fa7.js.map

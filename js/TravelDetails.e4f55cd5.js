@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmfx_tcil_v2"]=self["webpackChunkmfx_tcil_v2"]||[]).push([[939],{4332:function(n,e,r){r.r(e),r.d(e,{default:function(){return f}});var t=r(6768);function u(n,e){return(0,t.uX)(),(0,t.CE)("div",null," TravelDetails ")}var c=r(1241);const l={},a=(0,c.A)(l,[["render",u]]);var f=a}}]);
+//# sourceMappingURL=TravelDetails.e4f55cd5.js.map
